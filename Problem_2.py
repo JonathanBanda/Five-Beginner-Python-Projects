@@ -9,3 +9,13 @@ Learning outcomes
 - While loops
 
 """
+
+
+from random import randint
+
+
+
+print('Hello all and welcome to the random guessing game \n'
+	  'To begin enter 1 or any other key to exit!')
+
+
